@@ -1,6 +1,6 @@
 # Feedforward-NN
 
-This is a "from scratch" implementation of a feedforward neural network, written as a personal exercise/learning project to solidify my understanding of neural networks.
+This is a "from scratch" implementation of a feedforward neural network, written as a personal exercise/learning project to solidify my understanding of neural networks (Sophomore Year, Fall 2018)
 
 The inspiration comes from the tutorial at http://www.wildml.com/2015/09/implementing-a-neural-network-from-scratch/
 
